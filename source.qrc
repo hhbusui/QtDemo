@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Font/fontawesome-webfont.ttf</file>
+        <file>images/reduce.png</file>
+        <file>images/max.png</file>
+        <file>images/close.png</file>
+        <file>images/m.ico</file>
+        <file>images/3.png</file>
+        <file>images/4.png</file>
+        <file>images/9.png</file>
+        <file>images/10.png</file>
+        <file>images/11.png</file>
+        <file>images/14.png</file>
+        <file>images/15.png</file>
+        <file>images/17.png</file>
+        <file>images/24.png</file>
+        <file>images/用户1.png</file>
+        <file>images/svip.png</file>
+        <file>images/a.png</file>
+        <file>images/passwd.png</file>
+        <file>images/person.png</file>
+        <file>images/phone.png</file>
+        <file>images/1.png</file>
+        <file>images/ToastFailBg.png</file>
+        <file>images/ToastOkBg.png</file>
+        <file>images/main_logo.png</file>
+        <file>images/ToastBkg.png</file>
+        <file>images/c.png</file>
+    </qresource>
+</RCC>
